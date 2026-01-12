@@ -4,7 +4,7 @@
 - Course Name: Artificial Intelligence  
 - Assignment: 2  
 - Programming Language: Python 3.12  
-- Submission Method: GitHub (later)  
+  
 
 ---
 
